@@ -1,2 +1,6 @@
 si turma02 hello world
+<<<<<<< HEAD
 sem conflito
+=======
+conflito
+>>>>>>> conflito
